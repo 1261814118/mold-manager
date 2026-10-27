@@ -1,0 +1,16 @@
+{
+  "name": "مدیریت قالب‌های لنت جهان لنت",
+  "short_name": "قالب‌یاب",
+  "description": "فهرست آفلاین قالب‌های لنت، کدها و محل قفسه‌ها",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f6f4",
+  "theme_color": "#123c3a",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
